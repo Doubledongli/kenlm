@@ -4,7 +4,7 @@
 #include <cassert>
 #include <cstring>
 #include <vector>
-
+#include <algorithm>
 #include <stdint.h>
 
 namespace util {
